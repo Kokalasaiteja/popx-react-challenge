@@ -2,11 +2,11 @@
 
 ## About Project:
 
-1. A mobile-style React application built using **React 18** and **Create React App**, implementing a clean onboarding flow across four screens: **Home (Welcome)**, **Login**, **Register (Signup)**, and **Account (Profile)**.
+1. A mobile-style React application built using **React JS** and **Create React App**, implementing a clean onboarding flow across four screens: **Welcome**, **Login**, **Signup**, and **Profile**.
 
-2. Includes **structured form validation**, **dynamic button states** (gray→purple when valid), field-level error handling, **localStorage auth**, auto-login after register, and protected routes.
+2. Includes structured form validation, dynamic button states, and field-level error handling to guide user input and improve usability.
 
-3. Developed with a **component-based architecture** using **React Router v6**, **modular services** (auth.js), responsive CSS (335×729px viewport), ensuring smooth navigation and maintainable code structure.
+3. Developed with a component-based architecture using **React Router**, ensuring smooth navigation between screens and a modular, maintainable code structure.
 
 ## Features:
 - ✅ Mobile-first design (fixed sizing, no scaling) 

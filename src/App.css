@@ -32,15 +32,25 @@ body{
   box-sizing: border-box;
 }
 
-h2{
-  font-size:22px;
-  font-weight:600;
-  margin-top:30px;
+h2 {
+  font-size:28px;
+  font-weight:700;
+  margin:0 0 12px 0;
+  line-height:1.2;
+  font-family: 'Poppins', 'Montserrat', 'Roboto', Arial, sans-serif;
 }
 
-p{
+p {
   color:#888;
   font-size:14px;
+  margin:0 0 24px 0;
+  line-height:1.5;
+  font-family: 'Roboto', 'Open Sans', 'Lato', Arial, sans-serif;
+}
+
+.primary-btn, .secondary-btn {
+  font-family: 'Poppins', 'Roboto', 'Inter', Arial, sans-serif;
+  font-weight:500;
 }
 
 input{
@@ -97,9 +107,10 @@ button{
   align-items:flex-end;
 }
 
-.landing-bottom{
-  width:100%;
-  margin-bottom:40px;
+.landing-bottom {
+  width: 335px;
+  margin-bottom: 40px;
+  padding: 20px;
 }
 
 .login-container{

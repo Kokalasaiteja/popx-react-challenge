@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f5f5f5;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  width: 320px;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+.primary {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(90deg, purple, violet);
+  color: white;
+  border: none;
+}
+
+.secondary {
+  width: 100%;
+  padding: 12px;
+  background: #e6d9ff;
+  border: none;
+}
+
+.disabled {
+  width: 100%;
+  padding: 12px;
+  background: #ccc;
+  border: none;
+}

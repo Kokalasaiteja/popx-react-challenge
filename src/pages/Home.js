@@ -10,7 +10,7 @@ function Landing() {
 
         <h2>Welcome to PopX</h2>
 
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit</p>
 
         <Link to="/register">
           <button className="primary-btn">
